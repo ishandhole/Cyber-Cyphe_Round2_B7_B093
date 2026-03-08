@@ -1,4 +1,4 @@
-# PROMETHEUS  — Agentic Supply Chain Command
+# 🔱 PROMETHEUS — Agentic Supply Chain Command
 
 > **Observe → Reason → Decide → Act → Learn**
 > A production-grade agentic AI system for logistics and supply chain operations.
